@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.phonebook.ContactEditorController">
+
+    <center>
+        <VBox spacing="8">
+            <padding>
+                <Insets top="10" right="10" bottom="10" left="10"/>
+            </padding>
+
+            <Label text="ФИО:"/>
+            <TextField fx:id="nameField"/>
+
+            <Label text="Телефоны:"/>
+            <ListView fx:id="phoneList" prefHeight="200"/>
+
+            <HBox spacing="8">
+                <Button fx:id="addPhoneBtn" text="Добавить номер"/>
+                <Button fx:id="removePhoneBtn" text="Удалить номер"/>
+            </HBox>
+
+            <HBox spacing="8" alignment="CENTER_RIGHT">
+                <Button fx:id="saveBtn" text="Сохранить"/>
+                <Button fx:id="cancelBtn" text="Отмена"/>
+            </HBox>
+        </VBox>
+    </center>
+
+</BorderPane>

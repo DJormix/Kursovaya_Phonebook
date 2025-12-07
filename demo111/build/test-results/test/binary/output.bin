@@ -1,0 +1,30 @@
+�[09:44:29] [INFO ] PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin
+�[09:44:29] [INFO ] PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin
+�[09:44:29] [WARN ] PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+w[09:44:29] [INFO ] PhonebookService - Загрузка завершена. Количество контактов: 0
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Петров Пётр Петрович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 1
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Иванов Иван Иванович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 2
+�[09:44:29] [INFO ] PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin
+�[09:44:29] [INFO ] PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin
+�[09:44:29] [WARN ] PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+w[09:44:29] [INFO ] PhonebookService - Загрузка завершена. Количество контактов: 0
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Петров Пётр Петрович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 1
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Иванов Иван Иванович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 2
+�[09:44:29] [INFO ] PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin
+�[09:44:29] [INFO ] PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin
+�[09:44:29] [WARN ] PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+w[09:44:29] [INFO ] PhonebookService - Загрузка завершена. Количество контактов: 0
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Иванов Иван Иванович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 1
+�[09:44:29] [INFO ] PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin
+�[09:44:29] [INFO ] PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin
+�[09:44:29] [WARN ] PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+w[09:44:29] [INFO ] PhonebookService - Загрузка завершена. Количество контактов: 0
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Петров Пётр Петрович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 1
+o[09:44:29] [INFO ] PhonebookService - Добавлен контакт: Иванов Иван Иванович
+s[09:44:29] [INFO ] PhonebookStorage - Успешно сохранены контакты. Количество: 2

@@ -1,0 +1,12 @@
+[2025-12-07 07:32:35] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 07:32:35] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 07:32:35] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 6
+[2025-12-07 07:32:35] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 6
+[2025-12-07 09:09:34] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 09:09:34] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 09:09:34] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 6
+[2025-12-07 09:09:34] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 6
+[2025-12-07 09:09:59] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 09:09:59] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-07 09:09:59] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 6
+[2025-12-07 09:09:59] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 6

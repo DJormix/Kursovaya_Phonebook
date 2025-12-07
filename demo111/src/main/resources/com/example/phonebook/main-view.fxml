@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.phonebook.PhonebookController">
+
+
+    <top>
+        <HBox spacing="10" BorderPane.alignment="CENTER">
+            <children>
+                <TextField fx:id="searchField"
+                           promptText="Поиск по ФИО или номеру..."
+                           HBox.hgrow="ALWAYS"/>
+
+                <Button fx:id="sortButton"
+                        text="Сортировать по ФИО"
+                        onAction="#onSortButtonClick"/>
+            </children>
+        </HBox>
+    </top>
+
+    <!-- ЦЕНТР: слева список контактов, справа телефоны -->
+    <center>
+        <SplitPane dividerPositions="0.35">
+            <items>
+
+                <!-- ЛЕВАЯ ЧАСТЬ: контакты -->
+                <ListView fx:id="contactList"/>
+
+                <!-- ПРАВАЯ ЧАСТЬ: телефоны выбранного контакта -->
+                <VBox spacing="8" BorderPane.alignment="CENTER" >
+                    <children>
+                        <Label text="Телефоны выбранного контакта"
+                               style="-fx-font-size: 16px; -fx-font-weight: bold;"/>
+
+                        <ListView fx:id="phoneList" VBox.vgrow="ALWAYS"/>
+
+                        <Button fx:id="zoomIn" text="Увеличить масштаб"/>
+                        <Button fx:id="zoomOut" text="Уменьшить масштаб"/>
+                    </children>
+                </VBox>
+
+            </items>
+        </SplitPane>
+    </center>
+
+    <!-- НИЖНЯЯ ПАНЕЛЬ: кнопки CRUD -->
+    <bottom>
+        <HBox spacing="10" BorderPane.alignment="CENTER_RIGHT" >
+            <children>
+                <Button fx:id="addButton" text="Добавить контакт"/>
+                <Button fx:id="editButton" text="Изменить контакт"/>
+                <Button fx:id="deleteButton" text="Удалить контакт"/>
+            </children>
+        </HBox>
+    </bottom>
+
+</BorderPane>

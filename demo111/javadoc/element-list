@@ -1,0 +1,5 @@
+module:com.example.phonebook
+com.example.phonebook
+com.example.phonebook.model
+com.example.phonebook.service
+com.example.phonebook.storage

@@ -1,0 +1,66 @@
+[2025-12-06 05:10:37] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 05:10:37] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 05:10:37] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 3
+[2025-12-06 05:10:37] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 3
+[2025-12-06 06:34:20] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 06:34:20] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 06:34:20] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 3
+[2025-12-06 06:34:20] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 3
+[2025-12-06 07:33:08] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 07:33:08] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 07:33:08] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 3
+[2025-12-06 07:33:08] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 3
+[2025-12-06 07:47:56] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 07:47:56] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 07:47:56] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 3
+[2025-12-06 07:47:56] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 3
+[2025-12-06 07:48:49] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Григорьев Антон Салонович
+[2025-12-06 07:48:49] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 4
+[2025-12-06 07:50:48] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Пиджон Пик Фыв
+[2025-12-06 07:50:48] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 5
+[2025-12-06 07:54:19] [INFO ] com.example.phonebook.service.PhonebookService - Обновлён контакт: Пиджон Пик Фыв -> Пиджон Пик Фыв
+[2025-12-06 07:54:19] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 5
+[2025-12-06 09:28:52] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 09:28:52] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 09:28:52] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 5
+[2025-12-06 09:28:52] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 5
+[2025-12-06 09:29:02] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: апвпа
+[2025-12-06 09:29:02] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 6
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin
+[2025-12-06 09:44:29] [WARN ] com.example.phonebook.storage.PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit4698650922265961838\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 0
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Петров Пётр Петрович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 1
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Иванов Иван Иванович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 2
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin
+[2025-12-06 09:44:29] [WARN ] com.example.phonebook.storage.PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit12774105438663906764\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 0
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Петров Пётр Петрович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 1
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Иванов Иван Иванович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 2
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin
+[2025-12-06 09:44:29] [WARN ] com.example.phonebook.storage.PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit15621572280258955607\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 0
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Иванов Иван Иванович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 1
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin
+[2025-12-06 09:44:29] [WARN ] com.example.phonebook.storage.PhonebookStorage - Файл C:\Users\DJormix\AppData\Local\Temp\junit1046038670964952861\phonebook-test.bin не найден. Возвращаю пустой список контактов.
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 0
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Петров Пётр Петрович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 1
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.service.PhonebookService - Добавлен контакт: Иванов Иван Иванович
+[2025-12-06 09:44:29] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно сохранены контакты. Количество: 2
+[2025-12-06 11:05:03] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 11:05:03] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 11:05:03] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 6
+[2025-12-06 11:05:03] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 6
+[2025-12-06 11:27:45] [INFO ] com.example.phonebook.storage.PhonebookStorage - Создан PhonebookStorage с файлом: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 11:27:45] [INFO ] com.example.phonebook.service.PhonebookService - Инициализация PhonebookService. Файл: D:\kurs_java\demo111\data\phonebook.bin
+[2025-12-06 11:27:45] [INFO ] com.example.phonebook.storage.PhonebookStorage - Успешно загружены контакты. Количество: 6
+[2025-12-06 11:27:45] [INFO ] com.example.phonebook.service.PhonebookService - Загрузка завершена. Количество контактов: 6
